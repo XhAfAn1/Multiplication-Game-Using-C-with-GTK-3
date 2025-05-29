@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1747162235 source:c:\users\saifi\desktop\cse 360    remember quiz 1\project\assignment\multiplication game\main.c
+	<gtk/gtk.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<unistd.h>
+
